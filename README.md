@@ -1,2 +1,2 @@
 # FlipkartClone
-E-store-logo.png
+![alt text](http://Yellow E-commerce Shop Bag Store Logo)
